@@ -1,0 +1,15 @@
+
+button {
+    padding: 0;
+    border: none;
+    background: transparent;
+  }
+button img { width: 300px; }
+
+button:hover {
+    opacity: 0.5;
+}
+
+p {
+    color : red ;
+}
